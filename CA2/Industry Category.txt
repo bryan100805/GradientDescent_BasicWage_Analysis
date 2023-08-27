@@ -1,0 +1,87 @@
+Occupation                                             | Industry Category                   
+Accountant (excluding tax accountant)                  | Financial & Insurance Services      
+Advocate/Solicitor (practising)                        | Professional Services               
+Applications/Systems programmer                      | Information and Communications      
+Auditor (accounting)                                  | Financial & Insurance Services      
+Biologist, botanist, zoologist and related professional| Services                           
+Building architect                                    | Professional Services                   
+Chemical engineer (excluding petroleum and petrochemicals)| Manufacturing                      
+Chemist                                              | Services                           
+Civil engineer                                       | Construction                       
+Commodities and freight trader                       | Wholesale and Retail Trade          
+Compliance officer/Risk analyst (financial)           | Financial & Insurance Services      
+Computer network, infrastructure and platform professional| Information and Communications      
+Counselling professional                             | Services                           
+Creative advertising professional                     | Services                           
+Cybersecurity professional                           | Information and Communications      
+Data centre engineer                                 | Services                           
+Data scientist                                       | Information and Communications      
+Database administrator                               | Information and Communications      
+Database designer and administrator                  | Information and Communications      
+Dietitian and nutritionist                           | Services                           
+Digital marketing professional (e.g. online, social media, e-commerce marketing professional)| Services                           
+Electrical engineer                                  | Manufacturing                      
+Electronics engineer                                 | Manufacturing                      
+Film, stage and related director and producer        | Services                           
+Financial analyst (e.g. equities analyst, credit analyst, investment research analyst)| Financial & Insurance Services      
+Financial and investment adviser                     | Financial & Insurance Services      
+Fund/Portfolio manager (including asset allocator)   | Financial & Insurance Services      
+Graphic and multimedia designer and artist           | Services                           
+Graphic designer                                     | Services                           
+Human resource consultant (excluding executive search consultant)| Services                           
+ICT quality assurance specialist                     | Information and Communications      
+ICT sales and services professional                  | Information and Communications      
+In-house legal counsel (except judiciary, ministries and statutory boards)| Professional Services               
+Industrial and production engineer                   | Construction
+Industrial safety engineer                          | Construction
+Insurance underwriter                               | Financial & Insurance Services      
+Interaction designer                                | Information and Communications
+Management and business consultant                  | Professional Services               
+Market research professional                        | Services
+Marketing strategy/Planning professional            | Services                           
+Materials engineer                                   | Manufacturing                      
+Mechanical engineer (excluding transport and vehicle engineer)| Manufacturing                      
+Medical and pharmaceutical products sales professional| Wholesale and Retail Trade          
+Network, servers and computer systems administrator| Information and Communications      
+Occupational therapist                              | Community, Social and Personal Services
+Operations research analyst                         | Services                           
+Personnel/Human resource officer                    | Professional Services               
+Procurement engineer                                | Professional Services               
+Producer (stage, film, television, game, commercial, video and radio)| Services                           
+Product and industrial designer                      | Services                           
+Public relations/Corporate communications professional| Community, Social and Personal Services
+Quantity surveyor                                   | Real Estate Services
+Registered nurse and other nursing professional (e.g. clinical nurse, nurse educator, excluding enrolled nurse)| Services
+Research officer (non-statistical)                  | Services                           
+Revenue specialist                                  | Financial & Insurance Services      
+Sales professional (institutional sales of financial products)| Financial & Insurance Services      
+Securities and finance dealer                       | Financial & Insurance Services      
+Securities and finance dealer (excluding foreign exchange, financial derivatives and other finance dealer)| Financial & Insurance Services      
+Ship engineer and related professional             | Construction
+Social service professional                        | Community, Social and Personal Services
+Software, web and multimedia developer             | Information and Communications      
+Special education teacher                           | Services                           
+Statistical officer/Data analyst                    | Professional Services               
+Systems analyst                                     | Information and Communications      
+Tax accountant                                     | Professional Services               
+Technical sales professional                        | Wholesale and Retail Trade
+Technical/Vocational/Commercial education institute teacher and trainer| Admin & Support Services
+Training and staff development professional       | Admin & Support Services
+Transport and vehicle engineer                     | Construction
+Treasury manager                                    | Admin & Support Services     
+University lecturer                                 | Community, Social and Personal Services
+Anaesthesiologist | Healthcare Services
+Cardiologist | Healthcare Services
+Clinical research professional | Healthcare Services
+Gastroenterologist | Healthcare Services
+General practitioner/Physician | Healthcare Services
+Medical diagnostic radiographer | Healthcare Services
+Medical laboratory scientist | Healthcare Services
+Orthopaedic surgeon | Healthcare Services
+Otorhinolaryngologist/Ear, nose, throat (ENT) specialist| Healthcare Services
+Paediatrician | Healthcare Services
+Pharmacist | Healthcare Services
+Physiotherapist | Healthcare Services
+Specialist medical practitioner (other specialisations)| Healthcare Services
+Urologist | Healthcare Services
+Specialist medical practitioner (other specialisations) - I|Healthcare Services
